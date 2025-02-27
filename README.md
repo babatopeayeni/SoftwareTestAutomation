@@ -1,4 +1,4 @@
-#  Software Testing and Quality Assurance 
+#  Software Testing and Quality Assurance   
 
 ## Overview
 This repository contains key artifacts from **Project One** and **Project Two** for software testing, automation, and quality assurance. These artifacts demonstrate my ability to **develop unit tests, apply testing strategies, and ensure software functionality**.
