@@ -51,6 +51,5 @@ This structured design makes the program **scalable, maintainable, and testable*
 ✔ Ensured **data integrity and security** through input validation and exception handling.  
 ✔ Followed **modular software design** for better **maintainability and scalability**.  
 
-This project showcases my ability to **develop reliable and test-driven Java applications** while maintaining **high code quality and security standards**.
 
 ---
