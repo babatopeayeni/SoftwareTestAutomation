@@ -47,9 +47,9 @@ This structured design makes the program **scalable, maintainable, and testable*
 ---
 
 ## Key Takeaways
-✔ Implemented **automated testing** with JUnit to validate business logic and error handling.  
-✔ Ensured **data integrity and security** through input validation and exception handling.  
-✔ Followed **modular software design** for better **maintainability and scalability**.  
+ Implemented **automated testing** with JUnit to validate business logic and error handling.  
+ Ensured **data integrity and security** through input validation and exception handling.  
+ Followed **modular software design** for better **maintainability and scalability**.  
 
 
 ---
